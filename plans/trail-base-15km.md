@@ -1,4 +1,5 @@
 ---
+name: Trail Base — Road to 15km
 parallel: true
 ladder: [4, 5, 6, 5, 7, 8, 9, 6, 10, 11.5, 13, 15]
 active: false

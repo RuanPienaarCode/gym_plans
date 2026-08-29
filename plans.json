@@ -36,7 +36,7 @@
     },
     {
       "id": "postpartum-1-foundation",
-      "name": "Postpartum 1 Foundation",
+      "name": "Postpartum 1 · Foundation",
       "summary": "PHASE 1 OF 4 — FOUNDATION. Breathing, pelvic floor connection, gentle core",
       "series": "postpartum-return-to-running",
       "phase": 1,
@@ -64,7 +64,7 @@
     },
     {
       "id": "postpartum-2-rebuild",
-      "name": "Postpartum 2 Rebuild",
+      "name": "Postpartum 2 · Rebuild",
       "summary": "PHASE 2 OF 4 — REBUILD. Real strength work at low load, still with the",
       "series": "postpartum-return-to-running",
       "phase": 2,
@@ -98,7 +98,7 @@
     },
     {
       "id": "postpartum-3-load-and-impact",
-      "name": "Postpartum 3 Load And Impact",
+      "name": "Postpartum 3 · Load & Impact",
       "summary": "PHASE 3 OF 4 — LOAD AND IMPACT PREP. This is the phase that decides whether",
       "series": "postpartum-return-to-running",
       "phase": 3,
@@ -131,7 +131,7 @@
     },
     {
       "id": "postpartum-4-return-to-running",
-      "name": "Postpartum 4 Return To Running",
+      "name": "Postpartum 4 · Return to Running",
       "summary": "PHASE 4 OF 4 — RETURN TO RUNNING. Walk-run intervals, built slowly, with the",
       "series": "postpartum-return-to-running",
       "phase": 4,
@@ -164,7 +164,7 @@
     },
     {
       "id": "rest-and-recovery",
-      "name": "Rest And Recovery",
+      "name": "Rest & Recovery",
       "summary": "Not a programme you switch to — this fills any day your training plan",
       "series": null,
       "phase": null,
@@ -190,7 +190,7 @@
     },
     {
       "id": "trail-base-15km",
-      "name": "Trail Base 15km",
+      "name": "Trail Base — Road to 15km",
       "summary": "Rebuilding to a comfortable 15km on trail. An easy 30-minute run on",
       "series": null,
       "phase": null,

@@ -1,4 +1,5 @@
 ---
+name: Rest & Recovery
 parallel: true
 fallback: true
 active: false
