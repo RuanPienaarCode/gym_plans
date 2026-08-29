@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "updated": "2026-08-29",
+  "plans": [
+    {
+      "id": "get-over-the-bar",
+      "name": "Get Over The Bar",
+      "summary": "At-home strength, four days a week, ~30 minutes a session. One hard goal — the",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 3,
+      "weekdays": [
+        "mon",
+        "wed",
+        "thu"
+      ],
+      "file": "plans/get-over-the-bar.md",
+      "exercises": [
+        "Box Jumps",
+        "Bulgarian Split Squat",
+        "Dead Hang",
+        "Explosive High Pull-ups",
+        "Inverted Rows",
+        "L-sit & Dragon Flag",
+        "Pistol Squat Progression",
+        "Plank",
+        "Pull-ups",
+        "Push-ups",
+        "Romanian Deadlift",
+        "Straight-bar Dips",
+        "Toes-to-bar Ladder"
+      ]
+    },
+    {
+      "id": "postpartum-1-foundation",
+      "name": "Postpartum 1 Foundation",
+      "summary": "PHASE 1 OF 4 — FOUNDATION. Breathing, pelvic floor connection, gentle core",
+      "series": "postpartum-return-to-running",
+      "phase": 1,
+      "phase_of": 4,
+      "parallel": false,
+      "fallback": false,
+      "days": 4,
+      "weekdays": [
+        "mon",
+        "wed",
+        "fri",
+        "any"
+      ],
+      "file": "plans/postpartum-1-foundation.md",
+      "exercises": [
+        "Bird Dog",
+        "Diaphragmatic Breathing",
+        "Glute Bridge",
+        "Heel Slides",
+        "Pelvic Floor Activation",
+        "Recovery Walk",
+        "Side-lying Clam",
+        "Transverse Abdominis Activation"
+      ]
+    },
+    {
+      "id": "postpartum-2-rebuild",
+      "name": "Postpartum 2 Rebuild",
+      "summary": "PHASE 2 OF 4 — REBUILD. Real strength work at low load, still with the",
+      "series": "postpartum-return-to-running",
+      "phase": 2,
+      "phase_of": 4,
+      "parallel": false,
+      "fallback": false,
+      "days": 4,
+      "weekdays": [
+        "mon",
+        "wed",
+        "fri",
+        "any"
+      ],
+      "file": "plans/postpartum-2-rebuild.md",
+      "exercises": [
+        "Bird Dog",
+        "Bodyweight Squat",
+        "Bulgarian Split Squat",
+        "Dead Bug",
+        "Glute Bridge",
+        "Inverted Rows",
+        "Pelvic Floor Activation",
+        "Push-ups",
+        "Recovery Walk",
+        "Side Plank",
+        "Side-lying Clam",
+        "Single-leg Calf Raise",
+        "Standing March",
+        "Transverse Abdominis Activation"
+      ]
+    },
+    {
+      "id": "postpartum-3-load-and-impact",
+      "name": "Postpartum 3 Load And Impact",
+      "summary": "PHASE 3 OF 4 — LOAD AND IMPACT PREP. This is the phase that decides whether",
+      "series": "postpartum-return-to-running",
+      "phase": 3,
+      "phase_of": 4,
+      "parallel": false,
+      "fallback": false,
+      "days": 4,
+      "weekdays": [
+        "mon",
+        "wed",
+        "fri",
+        "any"
+      ],
+      "file": "plans/postpartum-3-load-and-impact.md",
+      "exercises": [
+        "Bird Dog",
+        "Bodyweight Squat",
+        "Bulgarian Split Squat",
+        "Dead Bug",
+        "Glute Bridge",
+        "Inverted Rows",
+        "Jog on the spot",
+        "Recovery Walk",
+        "Side Plank",
+        "Single-leg Calf Raise",
+        "Single-leg Glute Bridge",
+        "Single-leg Sit-to-Stand",
+        "Standing March"
+      ]
+    },
+    {
+      "id": "postpartum-4-return-to-running",
+      "name": "Postpartum 4 Return To Running",
+      "summary": "PHASE 4 OF 4 — RETURN TO RUNNING. Walk-run intervals, built slowly, with the",
+      "series": "postpartum-return-to-running",
+      "phase": 4,
+      "phase_of": 4,
+      "parallel": false,
+      "fallback": false,
+      "days": 5,
+      "weekdays": [
+        "tue",
+        "wed",
+        "fri",
+        "sat",
+        "any"
+      ],
+      "file": "plans/postpartum-4-return-to-running.md",
+      "exercises": [
+        "Bird Dog",
+        "Bodyweight Squat",
+        "Bulgarian Split Squat",
+        "Dead Bug",
+        "Glute Bridge",
+        "Inverted Rows",
+        "Pelvic Floor Activation",
+        "Recovery Walk",
+        "Side Plank",
+        "Single-leg Calf Raise",
+        "Single-leg Glute Bridge",
+        "Walk-Run Intervals"
+      ]
+    },
+    {
+      "id": "rest-and-recovery",
+      "name": "Rest And Recovery",
+      "summary": "Not a programme you switch to — this fills any day your training plan",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": true,
+      "fallback": true,
+      "days": 2,
+      "weekdays": [
+        "any",
+        "sun"
+      ],
+      "file": "plans/rest-and-recovery.md",
+      "exercises": [
+        "Calf Stretch",
+        "Cat-Cow",
+        "Child's Pose",
+        "IT Band and Glute Stretch",
+        "Kneeling Hip Flexor Stretch",
+        "Piriformis Stretch",
+        "Recovery Walk",
+        "World's Greatest Stretch"
+      ]
+    },
+    {
+      "id": "trail-base-15km",
+      "name": "Trail Base 15km",
+      "summary": "Rebuilding to a comfortable 15km on trail. An easy 30-minute run on",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": true,
+      "fallback": false,
+      "days": 2,
+      "weekdays": [
+        "tue",
+        "sat"
+      ],
+      "file": "plans/trail-base-15km.md",
+      "exercises": [
+        "Easy Run",
+        "Long Trail Run"
+      ]
+    }
+  ]
+}
