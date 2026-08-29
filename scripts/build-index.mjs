@@ -21,7 +21,11 @@ const fmOf = t => {
   return { fm, body: m ? t.slice(m[0].length) : t };
 };
 
-const known = new Set(readdirSync('exercises').filter(f => f.endsWith('.md')).map(f => basename(f, '.md').toLowerCase()));
+/* EXACT names, not lowercased: a plan is downloaded by fetching
+   exercises/<name>.md over https, and that is case-sensitive. Validating
+   case-insensitively here once let "Jog on the spot" pass while the file was
+   "Jog on the Spot.md" — green index, broken install. */
+const known = new Set(readdirSync('exercises').filter(f => f.endsWith('.md')).map(f => basename(f, '.md')));
 const plans = [];
 const problems = [];
 
@@ -38,7 +42,13 @@ for (const file of readdirSync('plans').filter(f => f.endsWith('.md')).sort()) {
        bullet inside a day is a prescription, exactly as plan-parse reads it. */
     if (inDay && t.startsWith('- ')) exercises.add(t.slice(2).split('|')[0].trim());
   }
-  for (const ex of exercises) if (!known.has(ex.toLowerCase())) problems.push(`${file}: no exercise definition for "${ex}"`);
+  for (const ex of exercises) {
+    if (known.has(ex)) continue;
+    const near = [...known].find(k => k.toLowerCase() === ex.toLowerCase());
+    problems.push(near
+      ? `${file}: "${ex}" does not match the file exactly — did you mean "${near}"?`
+      : `${file}: no exercise definition for "${ex}"`);
+  }
   const intro = body.split(/^##\s/m)[0].split(/\r?\n/).filter(l => l.trim());
   plans.push({
     id: basename(file, '.md'),

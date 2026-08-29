@@ -50,7 +50,7 @@ Only the amount that stays symptom-free. Stop the moment anything changes.
 
 - Standing March | 2 x 20/side
 - Single-leg Calf Raise | 3 x 10/side
-- Jog on the spot | 1 x 30-60s
+- Jog on the Spot | 1 x 30-60s
 - Bird Dog | 2 x 10/side
 
 ## Walk (any)
