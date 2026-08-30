@@ -13,6 +13,8 @@ Everything here is a file you can read, edit and fork. No accounts, no app.
 | **Postpartum — Rebuild to Running** (4 phases) | Pelvic floor, core and strength after birth, through to running again |
 | **Get Over The Bar** | At-home calisthenics built around one hard goal: the muscle-up |
 | **Trail Base — Road to 15km** | Rebuilding to a comfortable 15km on trail, 12-week ladder |
+| **Fullbody Workout Kettle Bell** | One full-body session, one kettlebell, no weekday — reach for it when you want it |
+| **9 Foundations** | Nine exercises you loop as a circuit for however long you have |
 | **Rest & Recovery** | Mobility and recovery that fills whatever day your training plan leaves empty |
 
 ## Structure
@@ -44,7 +46,8 @@ Prose inside a day is kept exactly where you put it.
 - Inverted Rows | 3 x 10-12
 ```
 
-`(any)` is a wildcard weekday for fallback plans. Everything after the first
+`(any)` is a wildcard weekday — used by fallback plans, and by on-demand plans
+that are a single session rather than a week. Everything after the first
 `|` is free text — `submax`, `8/leg`, `3 x 8-10 @ 20kg` all work, because real
 prescriptions are not numbers.
 

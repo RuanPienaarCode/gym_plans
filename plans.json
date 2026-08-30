@@ -1,7 +1,64 @@
 {
   "version": 1,
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "plans": [
+    {
+      "id": "9-foundations",
+      "name": "9 Foundations",
+      "summary": "Nine exercises, back to back, then straight to the top and again. What is",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/9-foundations.md",
+      "exercises": [
+        "Bodyweight Squat",
+        "Dumbbell Russian Twist",
+        "Forward Lunges",
+        "Plank",
+        "Push-up and Rotation",
+        "Push-ups",
+        "Side Plank",
+        "Tricep Dips",
+        "Up Down Squat"
+      ]
+    },
+    {
+      "id": "fullbody-kettlebell",
+      "name": "Fullbody Workout Kettle Bell",
+      "summary": "One full-body kettlebell session, done when you want one. Not a week, not a",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/fullbody-kettlebell.md",
+      "exercises": [
+        "Burpees",
+        "Forward Lunges",
+        "Inch Worms",
+        "Kettlebell Cross Crunch (Left)",
+        "Kettlebell Cross Crunch (Right)",
+        "Kettlebell Deadlift",
+        "Kettlebell Leg Sway",
+        "Kettlebell Russian Twist",
+        "Kettlebell Stack The Shelf (Left)",
+        "Kettlebell Stack The Shelf (Right)",
+        "Kettlebell Swing",
+        "Kettlebell Weighted Sit-Up",
+        "Plank Hip Rotation",
+        "Side Plank"
+      ]
+    },
     {
       "id": "get-over-the-bar",
       "name": "Get Over The Bar",
