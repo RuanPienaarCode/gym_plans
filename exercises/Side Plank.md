@@ -3,6 +3,7 @@ type: skill
 muscles: [core]
 equipment: bodyweight
 unit: seconds
+image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/1.jpg"]
 ---
 
 1. Lie on your side, elbow directly under the shoulder, feet stacked.

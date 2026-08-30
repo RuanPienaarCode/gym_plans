@@ -3,6 +3,7 @@ type: skill
 muscles: [shoulders, back, hamstrings, glutes]
 equipment: kettlebell
 unit: kg
+image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Snatch/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Snatch/1.jpg"]
 ---
 
 1. Hike the bell back like a one-arm swing and snap the hips hard.

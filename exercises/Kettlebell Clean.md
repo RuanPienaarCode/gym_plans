@@ -3,6 +3,7 @@ type: strength
 muscles: [shoulders, back, hamstrings, glutes]
 equipment: kettlebell
 unit: kg
+image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Clean/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Clean/1.jpg"]
 ---
 
 1. Set up as for a one-arm swing, bell between the feet, hips back and chest up.
@@ -10,3 +11,5 @@ unit: kg
 3. Receive it in the rack — forearm vertical against the ribs, bell resting in the crook of the arm, wrist straight and shoulder packed down.
 
 **Cue:** a clean should land silently. If the bell bangs onto your forearm you are lifting it with the arm instead of guiding a hip-driven bell into position — think of pulling your body around the bell, not throwing the bell up at yourself. Learn this before you press anything heavy: the clean is what puts the weight where a press can start.
+
+Photos show the two-bell version — the hinge, the path and the rack are identical with one.

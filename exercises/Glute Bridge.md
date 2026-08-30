@@ -3,6 +3,7 @@ type: strength
 muscles: [glutes, hamstrings, core]
 equipment: bodyweight
 unit: reps
+image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/1.jpg"]
 ---
 
 1. On your back, knees bent, feet flat and hip-width.

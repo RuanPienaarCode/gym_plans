@@ -3,6 +3,7 @@ type: strength
 muscles: [chest, shoulders]
 equipment: dumbbells
 unit: kg
+image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/1.jpg"]
 ---
 
 1. Lie on your back, knees bent, a dumbbell in each hand pressed over your chest, palms facing each other.
@@ -10,3 +11,5 @@ unit: kg
 3. Bring them back together over the chest, squeezing without letting the elbows straighten.
 
 **Cue:** the floor is the point — it stops the arc exactly where a shoulder starts complaining, which is why this is the fly to do with a shoulder history. Light weight, wide arc, slow on the way down. If you feel it in the front of the shoulder rather than across the chest, the arms have gone too far behind you.
+
+Photos show the bench version — on the floor the arc stops earlier, which is the whole point.

@@ -3,6 +3,7 @@ type: strength
 muscles: [back, biceps, forearms]
 equipment: kettlebell
 unit: kg
+image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Row/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Row/1.jpg"]
 ---
 
 1. Hinge at the hips with a flat back, free hand braced on a bench, box or your own knee.
