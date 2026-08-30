@@ -3,6 +3,7 @@ type: skill
 muscles: [core, shoulders]
 equipment: bodyweight
 unit: reps
+image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"]
 ---
 
 1. Forearm plank, feet together, elbows under the shoulders, body one rigid line.
@@ -10,3 +11,5 @@ unit: reps
 3. Back to centre, then the other side — only as far as you can go without the plank changing shape.
 
 **Cue:** the plank holds its shape and the hips rotate underneath it. Lose the brace and you have turned a core exercise into a lower-back one.
+
+Photos show the plank you start and finish in — the rotation happens between them.

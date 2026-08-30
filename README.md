@@ -114,6 +114,9 @@ first step — a routine six-week check usually isn't one.
 Plan and exercise content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use it, adapt it, credit it.
 
 Exercise photographs referenced by some plans come from
-[free-exercise-db](https://github.com/yuhonas/free-exercise-db) (public domain)
-and [wger](https://wger.de) (CC BY-SA 4.0, videos by Goulart); each exercise
-note credits its own media.
+[free-exercise-db](https://github.com/yuhonas/free-exercise-db) (public domain),
+[wger](https://wger.de) (CC BY-SA 4.0, videos by Goulart) and
+[Wikimedia Commons](https://commons.wikimedia.org) (CC BY-SA 4.0 and public
+domain — the burpee and kettlebell front squat sequences are by Taco fleur);
+each exercise note credits its own media, and says so in its own body wherever
+the photo shows a near variant rather than the exact movement.

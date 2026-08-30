@@ -3,6 +3,7 @@ type: cardio
 muscles: [quads, hamstrings, calves, glutes]
 equipment: treadmill or road
 unit: km
+image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Running_Treadmill/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Running_Treadmill/1.jpg"]
 ---
 
 1. Start with 3–5 minutes of walking or very slow jogging.
@@ -12,3 +13,5 @@ unit: km
 **Cue:** this is the bread and butter — roughly 80% of your running should feel this easy. The gym 30-minute midweek runs are these.
 
 If you have been ill, easy means EASIER than usual for the first week or two back.
+
+Photos show the treadmill. The road and the trail count the same.

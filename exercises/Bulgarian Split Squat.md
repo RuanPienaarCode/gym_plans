@@ -3,6 +3,7 @@ type: strength
 muscles: [quads, glutes]
 equipment: dumbbells
 unit: kg
+image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/1.jpg"]
 ---
 
 1. Rear foot up on the box behind you, front foot far enough forward that the knee tracks over the toes.

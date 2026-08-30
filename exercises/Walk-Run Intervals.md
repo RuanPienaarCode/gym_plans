@@ -3,6 +3,7 @@ type: cardio
 muscles: [quads, calves, glutes]
 equipment: trail or road
 unit: km
+image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Walking_Treadmill/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Running_Treadmill/0.jpg"]
 ---
 
 1. Run 4 minutes easy, walk 1 minute. Repeat.
@@ -10,3 +11,5 @@ unit: km
 3. As it gets easier, stretch the run block (5:1, 8:1, 9:1) before dropping the walk entirely.
 
 **Cue:** the honest way back after illness or a layoff, and the way to make a long run longer before your legs are ready for it continuously. There is no shame in it — plenty of trail runners use it at distance.
+
+One frame walking, one frame running — which is the whole exercise.
