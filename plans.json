@@ -29,6 +29,174 @@
       ]
     },
     {
+      "id": "arms-biceps-triceps-grip",
+      "name": "Arms · Biceps, Triceps & Grip",
+      "summary": "An ACCESSORY plan, not a week. It has no weekday — start it from the Plans",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 2,
+      "weekdays": [
+        "any",
+        "any"
+      ],
+      "file": "plans/arms-biceps-triceps-grip.md",
+      "exercises": [
+        "Chin-ups",
+        "Close-grip Push-ups",
+        "Dead Hang",
+        "Dumbbell Curl",
+        "Farmer's Carry",
+        "Hammer Curls",
+        "Overhead Triceps Extension",
+        "Straight-bar Dips",
+        "Tricep Dips"
+      ]
+    },
+    {
+      "id": "back-pull-and-row",
+      "name": "Back · Pull & Row",
+      "summary": "Vertical pulling and horizontal rowing are two different jobs and your week",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 2,
+      "weekdays": [
+        "any",
+        "any"
+      ],
+      "file": "plans/back-pull-and-row.md",
+      "exercises": [
+        "Band Face Pulls",
+        "Chin-ups",
+        "Dead Hang",
+        "Inverted Rows",
+        "One-arm Dumbbell Row",
+        "Pull-ups",
+        "Renegade Row",
+        "Reverse Flyes",
+        "Romanian Deadlift",
+        "Superman"
+      ]
+    },
+    {
+      "id": "chest-press-and-push",
+      "name": "Chest · Press & Push",
+      "summary": "A chest session for a home rack that has no bench press in it. Everything",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 2,
+      "weekdays": [
+        "any",
+        "any"
+      ],
+      "file": "plans/chest-press-and-push.md",
+      "exercises": [
+        "Close-grip Push-ups",
+        "Dumbbell Floor Fly",
+        "Dumbbell Floor Press",
+        "Feet-elevated Push-ups",
+        "Push-up and Rotation",
+        "Push-ups",
+        "Straight-bar Dips"
+      ]
+    },
+    {
+      "id": "full-body-evidence-based-hypertrophy",
+      "name": "Full Body · Evidence-Based Hypertrophy",
+      "summary": "THE SIZE PLAN. Three full-body sessions a week, built to the numbers the",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 3,
+      "weekdays": [
+        "mon",
+        "wed",
+        "fri"
+      ],
+      "file": "plans/full-body-evidence-based-hypertrophy.md",
+      "exercises": [
+        "Bulgarian Split Squat",
+        "Dumbbell Curl",
+        "Dumbbell Floor Press",
+        "Feet-elevated Push-ups",
+        "Goblet Squat",
+        "Hanging Knee Raise",
+        "Inverted Rows",
+        "Kettlebell Swing",
+        "Lateral Raise",
+        "One-arm Dumbbell Row",
+        "Overhead Triceps Extension",
+        "Plank",
+        "Pull-ups",
+        "Reverse Lunge",
+        "Romanian Deadlift",
+        "Side Plank",
+        "Standing Dumbbell Press",
+        "Straight-bar Dips"
+      ]
+    },
+    {
+      "id": "full-body-recommended-routine",
+      "name": "Full Body · Recommended Routine",
+      "summary": "THE RECOMMENDED ROUTINE — the free, community-written full-body programme",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 3,
+      "weekdays": [
+        "mon",
+        "wed",
+        "fri"
+      ],
+      "file": "plans/full-body-recommended-routine.md",
+      "exercises": [
+        "Bulgarian Split Squat",
+        "Hollow Hold",
+        "Inverted Rows",
+        "Pull-ups",
+        "Push-ups",
+        "Romanian Deadlift",
+        "Side Plank",
+        "Straight-bar Dips"
+      ]
+    },
+    {
+      "id": "full-body-simple-and-sinister",
+      "name": "Full Body · Simple & Sinister",
+      "summary": "SIMPLE & SINISTER — Pavel Tsatsouline's minimalist kettlebell programme, and",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 4,
+      "weekdays": [
+        "mon",
+        "tue",
+        "thu",
+        "fri"
+      ],
+      "file": "plans/full-body-simple-and-sinister.md",
+      "exercises": [
+        "Kettlebell Deadlift",
+        "Kettlebell Halo",
+        "Kettlebell Swing",
+        "Turkish Get-Up"
+      ]
+    },
+    {
       "id": "fullbody-kettlebell",
       "name": "Fullbody Workout Kettle Bell",
       "summary": "One full-body kettlebell session, done when you want one. Not a week, not a",
@@ -89,6 +257,142 @@
         "Romanian Deadlift",
         "Straight-bar Dips",
         "Toes-to-bar Ladder"
+      ]
+    },
+    {
+      "id": "kettlebell-10000-swing-challenge",
+      "name": "Kettlebell · 10,000 Swing Challenge",
+      "summary": "DAN JOHN'S 10,000 SWING CHALLENGE — twenty workouts of 500 swings. It is a",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 4,
+      "weekdays": [
+        "mon",
+        "tue",
+        "thu",
+        "fri"
+      ],
+      "file": "plans/kettlebell-10000-swing-challenge.md",
+      "exercises": [
+        "Kettlebell Clean and Press",
+        "Kettlebell Front Squat",
+        "Kettlebell Row",
+        "Kettlebell Swing"
+      ]
+    },
+    {
+      "id": "kettlebell-armor-building-complex",
+      "name": "Kettlebell · Armor Building Complex",
+      "summary": "THE ARMOR BUILDING COMPLEX — Dan John's, and the most copied kettlebell",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 3,
+      "weekdays": [
+        "mon",
+        "wed",
+        "fri"
+      ],
+      "file": "plans/kettlebell-armor-building-complex.md",
+      "exercises": [
+        "Kettlebell Clean",
+        "Kettlebell Front Squat",
+        "Kettlebell Press",
+        "Kettlebell Swing",
+        "Turkish Get-Up"
+      ]
+    },
+    {
+      "id": "kettlebell-rite-of-passage",
+      "name": "Kettlebell · Rite of Passage",
+      "summary": "RITE OF PASSAGE — the programme from Pavel Tsatsouline's Enter the Kettlebell,",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 4,
+      "weekdays": [
+        "mon",
+        "wed",
+        "fri",
+        "sat"
+      ],
+      "file": "plans/kettlebell-rite-of-passage.md",
+      "exercises": [
+        "Kettlebell Clean and Press",
+        "Kettlebell Snatch",
+        "Kettlebell Swing",
+        "Kettlebell Windmill",
+        "Pull-ups",
+        "Turkish Get-Up"
+      ]
+    },
+    {
+      "id": "legs-squat-hinge-single-leg",
+      "name": "Legs · Squat, Hinge & Single-leg",
+      "summary": "A standalone leg session for the days Get Over The Bar's Thursday does not",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 2,
+      "weekdays": [
+        "any",
+        "any"
+      ],
+      "file": "plans/legs-squat-hinge-single-leg.md",
+      "exercises": [
+        "Bodyweight Squat",
+        "Bulgarian Split Squat",
+        "Calf Raises",
+        "Forward Lunges",
+        "Goblet Squat",
+        "Kettlebell Deadlift",
+        "Reverse Lunge",
+        "Romanian Deadlift",
+        "Single-leg Calf Raise",
+        "Single-leg Glute Bridge",
+        "Up Down Squat",
+        "Wall Sit"
+      ]
+    },
+    {
+      "id": "mobility-hips-back-shoulders",
+      "name": "Mobility · Hips, Back & Shoulders",
+      "summary": "Not a workout, and not the same thing as Rest & Recovery — that plan fills",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 2,
+      "weekdays": [
+        "any",
+        "any"
+      ],
+      "file": "plans/mobility-hips-back-shoulders.md",
+      "exercises": [
+        "Band Pull-Aparts",
+        "Calf Stretch",
+        "Cat-Cow",
+        "Child's Pose",
+        "Dead Hang",
+        "Diaphragmatic Breathing",
+        "Hamstring Stretch",
+        "IT Band and Glute Stretch",
+        "Inch Worms",
+        "Kneeling Hip Flexor Stretch",
+        "Piriformis Stretch",
+        "Shoulder Circles",
+        "Spinal Twist",
+        "World's Greatest Stretch"
       ]
     },
     {
@@ -243,6 +547,35 @@
         "Piriformis Stretch",
         "Recovery Walk",
         "World's Greatest Stretch"
+      ]
+    },
+    {
+      "id": "shoulders-press-and-rear-delt",
+      "name": "Shoulders · Press & Rear Delt",
+      "summary": "The shoulder is three heads doing three different jobs, and only one of them",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 2,
+      "weekdays": [
+        "any",
+        "any"
+      ],
+      "file": "plans/shoulders-press-and-rear-delt.md",
+      "exercises": [
+        "Band Face Pulls",
+        "Band Pull-Aparts",
+        "Dead Hang",
+        "Farmer's Carry",
+        "Kettlebell Halo",
+        "Lateral Raise",
+        "Pike Push-ups",
+        "Reverse Flyes",
+        "Scapular Pull-ups",
+        "Shoulder Circles",
+        "Standing Dumbbell Press"
       ]
     },
     {
