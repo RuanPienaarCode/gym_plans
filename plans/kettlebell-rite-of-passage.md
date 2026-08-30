@@ -55,8 +55,8 @@ Wednesday is exactly what makes Friday possible.
 
 ## Ladders · Heavy (fri)
 
-The day the programme actually progresses. Five ladders when the week has
-gone well, four when it has not.
+The day the programme actually progresses. Five ladders when the week has gone
+well, four when it has not.
 
 - Kettlebell Clean and Press | 5 x ladder 1-2-3/side
 - Pull-ups | 5 x ladder 1-2-3
@@ -64,9 +64,9 @@ gone well, four when it has not.
 
 ## Variety Day (sat)
 
-Not a press day. Pick what you enjoy from below, keep it under twenty
-minutes, and finish fresh. Skip the snatches entirely if you have not been
-coached on them — the swings do the same job.
+Not a press day. Pick what you enjoy from below, keep it under twenty minutes,
+and finish fresh. Skip the snatches entirely if you have not been coached on
+them — the swings do the same job.
 
 - Kettlebell Swing | 10 x 20
 - Turkish Get-Up | 5 x 1/side

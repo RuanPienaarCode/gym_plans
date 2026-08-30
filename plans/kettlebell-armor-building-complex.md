@@ -13,10 +13,10 @@ single kettlebell gives you to a hypertrophy session: the clean loads the
 hinge, the press loads the shoulder, and by the third front squat your whole
 torso is holding on. Ten rounds is a real workout in about fifteen minutes.
 
-THE THREE LINES IN EACH DAY BELOW ARE ONE COMPLEX, NOT THREE EXERCISES. Do
-not do ten sets of cleans and then ten sets of presses — that is a different
-and much easier workout. Read them as: clean, clean, press, squat, squat,
-squat, set the bell down.
+THE THREE LINES IN EACH DAY BELOW ARE ONE COMPLEX, NOT THREE EXERCISES. Do not
+do ten sets of cleans and then ten sets of presses — that is a different and
+much easier workout. Read them as: clean, clean, press, squat, squat, squat,
+set the bell down.
 
 WITH ONE BELL, do the complex on one side, rest, then the other. The original
 is written for two bells; one bell just means twice the rounds and half the
@@ -30,8 +30,8 @@ HOW TO RUN IT. Two ways, both popular:
   the bell is heavy or the day is not going well.
 
 Start at five rounds a side and build to ten before you touch a heavier bell.
-The press is always the weak link, so pick the bell your PRESS can handle,
-not the one your squat could.
+The press is always the weak link, so pick the bell your PRESS can handle, not
+the one your squat could.
 
 Twice a week is plenty alongside anything else. Three times is a programme in
 its own right and nothing else should be competing with it.

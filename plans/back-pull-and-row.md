@@ -3,18 +3,18 @@ name: Back · Pull & Row
 active: false
 ---
 
-Vertical pulling and horizontal rowing are two different jobs and your week
-already leans hard on the vertical one. Get Over The Bar is built around the
-muscle-up, which means pull-ups everywhere and rows as an afterthought. This
-session evens that out — it is the plan to reach for when the shoulders feel
-rounded, when the muscle-up has stalled, or when you simply want a back day
-that is not secretly a pull-up test.
+Vertical pulling and horizontal rowing are two different jobs, and most
+programmes lean hard on the vertical one. Anything built around pull-ups or a
+muscle-up ends up with chin-over-bar work everywhere and rows as an
+afterthought. This session evens that out — it is the plan to reach for when
+the shoulders feel rounded, when a pulling skill has stalled, or when you
+simply want a back day that is not secretly a pull-up test.
 
-WHY MORE ROWING HELPS THE MUSCLE-UP. A stalled muscle-up is rarely a lat
-problem. It is usually the transition, and the transition is upper back,
-rear delt and the ability to keep the shoulder blades pinned while the torso
-comes over the bar. Rows train that. So does the Romanian Deadlift, which is
-in here as the back's other job: holding a neutral spine under load.
+WHY MORE ROWING HELPS A STALLED MUSCLE-UP. It is rarely a lat problem. It is
+usually the transition, and the transition is upper back, rear delt and the
+ability to keep the shoulder blades pinned while the torso comes over the bar.
+Rows train that. So does the Romanian Deadlift, which is in here as the back's
+other job: holding a neutral spine under load.
 
 That hinge is also the one movement in this plan a cranky lower back will
 argue about. Keep it MODERATE and stop the set the moment the back rounds.
@@ -23,8 +23,8 @@ the right call.
 
 ## Back · Full Session (any)
 
-Rest ~90s between the first four. Superset the last two with each other if
-you are tight for time.
+Rest ~90s between the first four. Superset the last two with each other if you
+are tight for time.
 
 - Pull-ups | 4 x 5-8
 - One-arm Dumbbell Row | 4 x 8-12/side

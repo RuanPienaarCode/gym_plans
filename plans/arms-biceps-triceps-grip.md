@@ -12,15 +12,15 @@ Arms grow from the compounds first and the isolation second, so nothing here
 replaces Pull-ups or Straight-bar Dips — it stacks on top of them. The number
 the training literature keeps landing on is roughly ten hard sets per muscle
 per week to grow, spread over two or more sessions, with sets taken to within
-a couple of reps of failure. Between Get Over The Bar and one of these
+a couple of reps of failure. Between a full-body or pull day and one of these
 sessions you are there.
 
 ELBOWS ARE THE LIMIT, NOT BICEPS. Tendon adapts slower than muscle, and slower
-again the older you get. Add ONE set per exercise per week at most, and when in doubt add
-reps before you add kilograms. Burn in the muscle belly is the work; a sharp
-or pinpoint ache at the elbow or wrist is the signal to stop that exercise for
-the day. Elbow tendinopathy takes months to settle and about a fortnight of
-enthusiasm to start.
+again the older you get. Add ONE set per exercise per week at most, and when
+in doubt add reps before you add kilograms. Burn in the muscle belly is the
+work; a sharp or pinpoint ache at the elbow or wrist is the signal to stop
+that exercise for the day. Elbow tendinopathy takes months to settle and about
+a fortnight of enthusiasm to start.
 
 ## Arms · Full Session (any)
 

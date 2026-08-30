@@ -4,8 +4,8 @@ active: false
 ---
 
 THE SIZE PLAN. Three full-body sessions a week, built to the numbers the
-hypertrophy research actually supports rather than to a magazine split. If
-the goal for a block is muscle rather than a skill, this is the one.
+hypertrophy research actually supports rather than to a magazine split. If the
+goal for a block is muscle rather than a skill, this is the one.
 
 THE FOUR RULES IT IS BUILT ON:
 
@@ -35,10 +35,10 @@ same joints are not loaded identically three times a week. Sessions run about
 35 minutes. Rest 2 minutes on the first two lifts of each day and 60–90
 seconds on the rest — cutting rest short costs reps, and reps are the point.
 
-WHERE IT FITS: in a block where the running is flat rather than climbing, and
-not on top of a return from illness. Muscle is built by eating and sleeping as
-much as by lifting; running hard on top of this and under-eating will produce
-fatigue rather than size.
+WHERE IT FITS: in a block where any endurance work is flat rather than
+climbing, and not on top of a return from illness. Muscle is built by eating
+and sleeping as much as by lifting; running hard on top of this and
+under-eating will produce fatigue rather than size.
 
 ## Day A · Squat & Press (mon)
 

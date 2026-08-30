@@ -9,17 +9,17 @@ and dip you do; the side and rear heads are the ones that are usually
 undertrained, and they are also the two that cost the joint almost nothing to
 train. That is why the raises here carry as many sets as the press does.
 
-READ THIS BEFORE THE FIRST SET, ESPECIALLY WITH ANY SHOULDER HISTORY.
-Sharp pain, or anything that travels down the arm as tingling or numbness, is
-not something to push through and not something a warm-up fixes — end the
+READ THIS BEFORE THE FIRST SET, ESPECIALLY WITH ANY SHOULDER HISTORY. Sharp
+pain, or anything that travels down the arm as tingling or numbness, is not
+something to push through and not something a warm-up fixes — end the
 exercise. Overhead pressing is the movement most likely to produce it, so it
 goes FIRST while you are fresh and attentive, never last while you are
-grinding. If pressing straight overhead does not feel clean on a given day,
-do the session without it; lateral and rear work will still be worth doing.
+grinding. If pressing straight overhead does not feel clean on a given day, do
+the session without it; lateral and rear work will still be worth doing.
 
-Face pulls and pull-aparts are in every session on purpose. Pulling volume
-for the rear delts and the upper back is the cheapest shoulder insurance
-there is, and it is the thing people drop first when time is short.
+Face pulls and pull-aparts are in every session on purpose. Pulling volume for
+the rear delts and the upper back is the cheapest shoulder insurance there is,
+and it is the thing people drop first when time is short.
 
 ## Shoulders · Full Session (any)
 

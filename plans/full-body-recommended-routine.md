@@ -3,11 +3,11 @@ name: Full Body · Recommended Routine
 active: false
 ---
 
-THE RECOMMENDED ROUTINE — the free, community-written full-body programme
-from r/bodyweightfitness, and probably the most-used bodyweight programme on
-the internet. Three identical full-body sessions a week on non-consecutive
-days, built entirely from pull-ups, dips, rows, push-ups, a squat and a
-hinge. Your kit already covers all of it.
+THE RECOMMENDED ROUTINE — the free, community-written full-body programme from
+r/bodyweightfitness, and probably the most-used bodyweight programme on the
+internet. Three identical full-body sessions a week on non-consecutive days,
+built entirely from pull-ups, dips, rows, push-ups, a squat and a hinge. A
+bar, a box and one pair of dumbbells covers all of it.
 
 WHY IT WORKS, IN ONE PARAGRAPH. Every muscle gets trained three times a week
 instead of once. Training frequency itself is not magic — total weekly hard
@@ -18,17 +18,17 @@ training around 30 minutes at home, that trade is a good one.
 
 HOW IT PROGRESSES. Pairs are supersets: do one set of A, rest a minute, one
 set of B, rest a minute, repeat. Work in the 5–8 rep range. When you hit 8
-clean reps on all three sets, make the movement HARDER rather than adding
-sets — feet higher on the rows, a slower descent, a harder squat variation.
-That is the whole progression model, and it is why the routine survives
-having no barbell in it.
+clean reps on all three sets, make the movement HARDER rather than adding sets
+— feet higher on the rows, a slower descent, a harder squat variation. That is
+the whole progression model, and it is why the routine survives having no
+barbell in it.
 
 WHERE IT FITS. It is the closest programme in this library to Get Over The
 Bar, minus the muscle-up obsession — which makes it a sensible place to spend
 six weeks when a skill has stalled and the answer is general strength rather
 than more skill work. It is also a clean landing spot at the end of a
-return-from-illness block, and the Tuesday and Saturday runs of Trail Base fit
-around it unchanged.
+return-from-illness block, and it leaves Tuesday and Saturday clear if you are
+running something like Trail Base alongside it.
 
 Warm up first: shoulder rolls and arm circles, 2×5 scapular pull-ups, a
 mobility minute, 15 band pull-aparts, 20s hollow hold.
@@ -49,8 +49,8 @@ Core last, three sets each, no rush.
 
 ## Full Body (wed)
 
-Same session. Same order. The point of the routine is the repetition — you
-are chasing one more rep than Monday, not variety.
+Same session. Same order. The point of the routine is the repetition — you are
+chasing one more rep than Monday, not variety.
 
 - Pull-ups | 3 x 5-8
 - Bulgarian Split Squat | 3 x 8/leg
@@ -63,8 +63,8 @@ are chasing one more rep than Monday, not variety.
 
 ## Full Body (fri)
 
-Third pass. If every set hit 8 on all three days, next week the variation
-gets harder — not longer.
+Third pass. If every set hit 8 on all three days, next week the variation gets
+harder — not longer.
 
 - Pull-ups | 3 x 5-8
 - Bulgarian Split Squat | 3 x 8/leg
