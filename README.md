@@ -47,6 +47,12 @@ never collide with the programme you are actually running.
 | **Back · Pull & Row** | Rowing volume for the weeks that are all pull-ups and no upper back |
 | **Mobility · Hips, Back & Shoulders** | A 20-minute full pass and a 10-minute desk reset |
 
+### Hands-free
+
+| Plan | For |
+|---|---|
+| **Hands-free · Tap Counter Circuit** | Five exercises the app can count for you — nose on the glass for push-ups, a timed interval for the plank |
+
 ### Filler
 
 | Plan | For |

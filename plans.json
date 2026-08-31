@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "plans": [
     {
       "id": "9-foundations",
@@ -257,6 +257,28 @@
         "Romanian Deadlift",
         "Straight-bar Dips",
         "Toes-to-bar Ladder"
+      ]
+    },
+    {
+      "id": "hands-free-tap-counter-circuit",
+      "name": "Hands-free · Tap Counter Circuit",
+      "summary": "FIVE EXERCISES THE APP CAN COUNT FOR YOU. Every line below is here because",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/hands-free-tap-counter-circuit.md",
+      "exercises": [
+        "Bodyweight Squat",
+        "Plank",
+        "Pull-ups",
+        "Push-ups",
+        "Sit-Up"
       ]
     },
     {
