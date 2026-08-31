@@ -3,6 +3,7 @@ type: mobility
 muscles: [shoulders, core]
 equipment: kettlebell
 unit: reps
+motion_sensitivity: high
 ---
 
 1. Hold the bell upside down by the horns at chest height.

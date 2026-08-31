@@ -3,6 +3,7 @@ type: strength
 muscles: [glutes, hamstrings, core]
 equipment: bodyweight
 unit: reps
+motion_sensitivity: low
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/1.jpg"]
 ---
 

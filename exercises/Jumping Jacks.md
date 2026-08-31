@@ -3,6 +3,7 @@ type: cardio
 muscles: [full body, shoulders, calves]
 equipment: bodyweight
 unit: reps
+motion_sensitivity: high
 image: ["https://wger.de/media/exercise-images/320/6c9124b6-3551-47a8-9c22-20141c8b9c53.png", "https://wger.de/media/exercise-images/320/85a075aa-53ff-4d61-bad3-5f47e14e0f8e.png"]
 ---
 

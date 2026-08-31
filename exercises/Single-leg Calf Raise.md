@@ -3,6 +3,7 @@ type: strength
 muscles: [calves]
 equipment: bodyweight
 unit: reps
+motion_sensitivity: high
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Raise_On_A_Dumbbell/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Raise_On_A_Dumbbell/1.jpg"]
 ---
 

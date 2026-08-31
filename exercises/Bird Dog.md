@@ -3,6 +3,7 @@ type: skill
 muscles: [core, back, glutes]
 equipment: bodyweight
 unit: reps
+motion_sensitivity: low
 image: ["https://wger.de/media/exercise-images/957/0fd94587-6021-4763-856e-7227f5fcba2a.png"]
 ---
 

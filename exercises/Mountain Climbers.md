@@ -3,6 +3,7 @@ type: cardio
 muscles: [core, quads, shoulders]
 equipment: bodyweight
 unit: reps
+motion_sensitivity: high
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/1.jpg"]
 ---
 

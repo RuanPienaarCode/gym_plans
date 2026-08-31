@@ -3,6 +3,7 @@ type: mobility
 muscles: [shoulders, back]
 equipment: band
 unit: reps
+motion_sensitivity: high
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"]
 ---
 

@@ -3,6 +3,7 @@ type: strength
 muscles: [core]
 equipment: kettlebell
 unit: reps
+motion_sensitivity: low
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sit-Up/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sit-Up/1.jpg"]
 ---
 

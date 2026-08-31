@@ -3,6 +3,7 @@ type: strength
 muscles: [biceps]
 equipment: dumbbells
 unit: kg
+motion_sensitivity: high
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"]
 video: "https://wger.de/media/exercise-video/92/8bfb917c-3d0d-49b9-8073-5d7e01c1b894.MOV"
 ---

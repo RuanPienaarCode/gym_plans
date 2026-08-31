@@ -3,6 +3,7 @@ type: skill
 muscles: [core, shoulders]
 equipment: bodyweight
 unit: reps
+motion_sensitivity: low
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"]
 ---
 

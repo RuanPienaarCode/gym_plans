@@ -3,6 +3,7 @@ type: strength
 muscles: [hamstrings, glutes, back]
 equipment: kettlebell
 unit: kg
+motion_sensitivity: low
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"]
 ---
 

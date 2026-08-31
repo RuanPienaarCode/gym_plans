@@ -572,6 +572,106 @@
       ]
     },
     {
+      "id": "run-15km",
+      "name": "Run · 15km",
+      "summary": "TWELVE WEEKS TO 15KM ON THE ROAD. Three runs a week — easy, tempo, long —",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 4,
+      "weekdays": [
+        "tue",
+        "thu",
+        "sat",
+        "sun"
+      ],
+      "file": "plans/run-15km.md",
+      "exercises": [
+        "Easy Run",
+        "Recovery Walk",
+        "Tempo Run"
+      ]
+    },
+    {
+      "id": "run-21km-half-marathon",
+      "name": "Run · 21km Half Marathon",
+      "summary": "TWELVE WEEKS TO A HALF MARATHON. Four runs a week now, because 21.1km is the",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 5,
+      "weekdays": [
+        "mon",
+        "wed",
+        "thu",
+        "sat",
+        "sun"
+      ],
+      "file": "plans/run-21km-half-marathon.md",
+      "exercises": [
+        "Easy Run",
+        "Interval Repeats",
+        "Recovery Walk",
+        "Strides",
+        "Tempo Run"
+      ]
+    },
+    {
+      "id": "run-42km-marathon",
+      "name": "Run · 42km Marathon",
+      "summary": "SIXTEEN WEEKS TO A MARATHON, and the honest warning first: this is the only",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 5,
+      "weekdays": [
+        "mon",
+        "wed",
+        "thu",
+        "sat",
+        "sun"
+      ],
+      "file": "plans/run-42km-marathon.md",
+      "exercises": [
+        "Easy Run",
+        "Hill Repeats",
+        "Interval Repeats",
+        "Long Trail Run",
+        "Recovery Walk",
+        "Tempo Run"
+      ]
+    },
+    {
+      "id": "run-5km",
+      "name": "Run · 5km",
+      "summary": "EIGHT WEEKS TO A SOLID 5KM. Three runs a week: one easy, one that is",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 4,
+      "weekdays": [
+        "tue",
+        "thu",
+        "sat",
+        "sun"
+      ],
+      "file": "plans/run-5km.md",
+      "exercises": [
+        "Easy Run",
+        "Interval Repeats",
+        "Recovery Walk",
+        "Strides"
+      ]
+    },
+    {
       "id": "shoulders-press-and-rear-delt",
       "name": "Shoulders · Press & Rear Delt",
       "summary": "The shoulder is three heads doing three different jobs, and only one of them",
@@ -598,6 +698,41 @@
         "Scapular Pull-ups",
         "Shoulder Circles",
         "Standing Dumbbell Press"
+      ]
+    },
+    {
+      "id": "stretch-after-the-run",
+      "name": "Stretch · After the Run",
+      "summary": "FOUR STRETCHING SESSIONS, none of them a workout. The first is the one to do",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 4,
+      "weekdays": [
+        "any",
+        "any",
+        "any",
+        "any"
+      ],
+      "file": "plans/stretch-after-the-run.md",
+      "exercises": [
+        "Band Face Pulls",
+        "Band Pull-Aparts",
+        "Calf Stretch",
+        "Cat-Cow",
+        "Child's Pose",
+        "Dead Hang",
+        "Diaphragmatic Breathing",
+        "Hamstring Stretch",
+        "IT Band and Glute Stretch",
+        "Kettlebell Halo",
+        "Kneeling Hip Flexor Stretch",
+        "Piriformis Stretch",
+        "Shoulder Circles",
+        "Spinal Twist",
+        "World's Greatest Stretch"
       ]
     },
     {

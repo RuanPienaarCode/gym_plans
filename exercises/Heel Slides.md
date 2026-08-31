@@ -3,6 +3,7 @@ type: mobility
 muscles: [core]
 equipment: bodyweight
 unit: reps
+motion_sensitivity: low
 ---
 
 1. On your back, knees bent, deep core gently engaged.

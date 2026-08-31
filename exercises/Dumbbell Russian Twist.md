@@ -3,6 +3,7 @@ type: strength
 muscles: [core]
 equipment: dumbbells
 unit: reps
+motion_sensitivity: low
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"]
 ---
 

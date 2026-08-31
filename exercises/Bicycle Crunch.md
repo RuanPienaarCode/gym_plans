@@ -3,6 +3,7 @@ type: strength
 muscles: [core]
 equipment: bodyweight
 unit: reps
+motion_sensitivity: low
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"]
 ---
 

@@ -16,6 +16,16 @@ Everything here is a file you can read, edit and fork. No accounts, no app.
 | **Get Over The Bar** | At-home calisthenics built around one hard goal: the muscle-up |
 | **Trail Base — Road to 15km** | Rebuilding to a comfortable 15km on trail, 12-week ladder |
 
+### Running — one ladder each, easy / hard / long
+
+| Plan | For |
+|---|---|
+| **Run · 5km** | Eight weeks, three runs a week, to a solid 5km |
+| **Run · 15km** | Twelve weeks on the road — the tempo run is the engine at this distance |
+| **Run · 21km Half Marathon** | Twelve weeks, four runs a week, longest training run 18km |
+| **Run · 42km Marathon** | Sixteen weeks, longest run 32km, and a taper that is training rather than rest |
+| **Stretch · After the Run** | The ten minutes after a run, plus targeted legs, shoulders and back sessions |
+
 ### Full body — three that people actually run
 
 | Plan | For |

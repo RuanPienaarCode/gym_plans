@@ -3,6 +3,7 @@ type: strength
 muscles: [core]
 equipment: kettlebell
 unit: reps
+motion_sensitivity: low
 ---
 
 1. On your back, arms straight up holding the bell in both hands, shoulders and arms flat on the floor.

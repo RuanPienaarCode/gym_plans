@@ -23,11 +23,20 @@ in a pocket, in a waistband, held at the chest. A phone lying on the floor
 under a push-up is not moving, so push-ups stay a tap exercise. Everything
 where the phone travels with your body can use motion.
 
-TWO THINGS TO KNOW ABOUT MOTION MODE. On an iPhone the first press asks for
+THREE THINGS TO KNOW ABOUT MOTION MODE. On an iPhone the first press asks for
 permission to use Motion & Orientation — that prompt only appears when you
-press the button yourself, and declining it drops you back to tapping.
-And a rep is counted on the way UP, so if you stop at the bottom of the last
-one it does not land until you come back up.
+press the button yourself, and declining it drops you back to tapping. A rep
+is counted on the way UP, so if you stop at the bottom of the last one it does
+not land until you come back up. And there is a SENSITIVITY picker under the
+count while motion is running: Low, Normal, High.
+
+SENSITIVITY IS PER EXERCISE, AND IT REMEMBERS. Change it mid-set and the
+choice is written to that exercise's own note, so it is right the next time
+that movement comes round in any plan. Sit-ups ship on LOW for a specific
+reason: the trunk reverses direction twice in one rep, so the phone feels two
+movements and counts two — Low widens the minimum gap between reps and
+collapses that back to one. If a movement is being counted double, go Low. If
+reps are being missed, go High.
 
 WHERE TO PUT THE PHONE, EXERCISE BY EXERCISE:
 

@@ -3,6 +3,7 @@ type: strength
 muscles: [hamstrings, glutes, back]
 equipment: kettlebell
 unit: kg
+motion_sensitivity: low
 image: ["https://wger.de/media/exercise-images/1003/772d6e47-3865-4944-9255-7435d0b06782.png"]
 ---
 

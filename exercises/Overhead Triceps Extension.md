@@ -3,6 +3,7 @@ type: strength
 muscles: [triceps]
 equipment: dumbbells
 unit: kg
+motion_sensitivity: high
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Triceps_Press/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Triceps_Press/1.jpg"]
 ---
 

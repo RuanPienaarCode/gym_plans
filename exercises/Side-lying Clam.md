@@ -3,6 +3,7 @@ type: strength
 muscles: [glutes]
 equipment: bodyweight
 unit: reps
+motion_sensitivity: low
 ---
 
 1. Lie on your side, hips stacked, knees bent about 90 degrees, heels together.

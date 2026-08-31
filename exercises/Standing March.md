@@ -3,6 +3,7 @@ type: strength
 muscles: [core, glutes]
 equipment: bodyweight
 unit: reps
+motion_sensitivity: low
 image: ["https://wger.de/media/exercise-images/1965/03c08a42-dedb-4a46-8d15-acaf497a35a2.png"]
 ---
 

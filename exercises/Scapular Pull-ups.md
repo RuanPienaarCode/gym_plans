@@ -3,6 +3,7 @@ type: skill
 muscles: [back, shoulders]
 equipment: bar
 unit: reps
+motion_sensitivity: high
 image: ["https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Scapular_Pull-Up/0.jpg", "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Scapular_Pull-Up/1.jpg"]
 ---
 
