@@ -34,6 +34,12 @@ Everything here is a file you can read, edit and fork. No accounts, no app.
 | **Full Body · Simple & Sinister** | Pavel Tsatsouline's minimalist pair — 100 swings and 10 get-ups, one bell, twenty minutes |
 | **Full Body · Evidence-Based Hypertrophy** | Three different full-body days built to the numbers the research supports: ~10+ hard sets per muscle per week, 1–3 reps in reserve, double progression |
 
+### Lunch hour
+
+| Plan | For |
+|---|---|
+| **Lunch Circuit · 30 Minutes** | A 5-minute run then four laps of jump squats, pull-ups, dips, lunges, push-ups, bridges and plank — built to leave time to shower and drive back to work |
+
 ### Kettlebell
 
 | Plan | For |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-08-31",
+  "updated": "2026-10-10",
   "plans": [
     {
       "id": "9-foundations",
@@ -383,6 +383,33 @@
         "Single-leg Glute Bridge",
         "Up Down Squat",
         "Wall Sit"
+      ]
+    },
+    {
+      "id": "lunch-circuit-30-min",
+      "name": "Lunch Circuit · 30 Minutes",
+      "summary": "A FULL-BODY CIRCUIT FOR A LUNCH-HOUR GYM SESSION. Thirty minutes on the gym",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 3,
+      "weekdays": [
+        "mon",
+        "wed",
+        "fri"
+      ],
+      "file": "plans/lunch-circuit-30-min.md",
+      "exercises": [
+        "Easy Run",
+        "Forward Lunges",
+        "Glute Bridge",
+        "Jump Squat",
+        "Plank",
+        "Pull-ups",
+        "Push-ups",
+        "Straight-bar Dips"
       ]
     },
     {
