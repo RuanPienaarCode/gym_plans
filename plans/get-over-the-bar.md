@@ -3,18 +3,30 @@ name: Get Over The Bar
 active: false
 ---
 
-At-home strength, four days a week, ~30 minutes a session. One hard goal — the
-muscle-up — with rows for shoulder health, a full leg & core day, and mobility
-built into every warm-up.
+At-home strength, three days a week, ~30 minutes a session. One hard goal —
+the muscle-up — with rows for shoulder health, a full leg & core day, and
+mobility built into every warm-up. This is PHASE 1: building the pull-up and
+the dip the muscle-up is made of.
 
 THE WEEK: Mon pull, Wed push, Thu legs & core — with the running plan
 filling Tue and Sat, and the Rest & Recovery plan filling whatever is
 left. Five sessions and two rest days.
 Legs sit on Thursday so there is a clear day between them and the
 Saturday trail run; a leg session the day before a long run is how ITBs
-and knees get angry. Adding running cost the second pull day (the old
-Sat A*) — recovery is the ceiling at 40, and the fix for a stalled
+and knees get angry. Recovery is the ceiling, and the fix for a stalled
 muscle-up is less volume, not more days.
+
+HOW IT PROGRESSES. "Submax" means stop one or two reps short of failure —
+the last rep should look like the first. Once a month, make the first set of
+Monday's pull-ups (and Wednesday's dips) a true max, clean reps only. For the
+next four weeks, every submax set is that max minus two. Between tests, try
+to add one rep to ONE set each week. Log every set: the log is what tells you
+whether this is working.
+
+WHEN TO MOVE ON. Ten clean pull-ups AND ten clean straight-bar dips open
+Phase 2 — Get Over The Bar · Phase 2, where the muscle-up skill work starts.
+Eight and eight, with explosive high pull-ups reaching the lower chest, is
+close enough to start it.
 
 Warm-up before every session (~5 min, non-negotiable): shoulder rolls + big arm
 circles, 2×5 scapular pull-ups, a mobility minute (thoracic rotations, deep
@@ -46,9 +58,12 @@ The other half of the muscle-up — dips lead today. Clean reps, leave 2 in the 
 
 Strength + skill, on its own track. Superset a leg move with a core move to stay inside 30 minutes.
 
+Keep the dragon flag TUCKED — knees bent, hips low — until the L-sit holds
+for 15 seconds. The straight-body version levers a lot of load onto the
+lower back, and nothing about the muscle-up needs it early.
+
 - Romanian Deadlift | 3 x 8-10
 - Bulgarian Split Squat | 3 x 8/leg
 - Pistol Squat Progression | 3 x 3-5/leg
 - Toes-to-bar Ladder | 4 x 6-10
 - L-sit & Dragon Flag | 3 x holds
-

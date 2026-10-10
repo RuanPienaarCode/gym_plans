@@ -70,9 +70,13 @@ rounds.
 Unilateral legs, the dip as the third pressing angle of the week, and swings
 to finish. Lighter on the spine than Wednesday by design.
 
+Face pulls close the day: three sessions of pressing a week want something
+pulling the shoulders back the other way.
+
 - Reverse Lunge | 3 x 10/leg
 - Straight-bar Dips | 3 x 6-10
 - Inverted Rows | 3 x 10-12
 - Kettlebell Swing | 3 x 15
 - Overhead Triceps Extension | 2 x 10-12
+- Band Face Pulls | 2 x 15-20
 - Side Plank | 3 x 30-45s

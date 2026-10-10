@@ -58,11 +58,17 @@ Wednesday is exactly what makes Friday possible.
 The day the programme actually progresses. Five ladders when the week has gone
 well, four when it has not.
 
+Swings stop at five sets here, because Saturday is usually a long run or
+something else that wants fresh hips. Take ten only on a week the weekend is
+empty.
+
 - Kettlebell Clean and Press | 5 x ladder 1-2-3/side
 - Pull-ups | 5 x ladder 1-2-3
-- Kettlebell Swing | 10 x 20
+- Kettlebell Swing | 5 x 20
 
-## Variety Day (sat)
+## Variety Day (sun)
+
+Sunday, not Saturday, so it never lands on the same day as a long run.
 
 Not a press day. Pick what you enjoy from below, keep it under twenty minutes,
 and finish fresh. Skip the snatches entirely if you have not been coached on

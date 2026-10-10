@@ -31,9 +31,10 @@ The shortest run of the week and the one people skip. Keep it.
 
 - Easy Run | 1 x 30 min easy
 
-## Intervals (wed)
+## Intervals (tue)
 
-Full warm-up. Stop the session — not the rep, the session — if anything
+Tuesday, not Wednesday: with the tempo on Thursday, the day between the two
+hard runs is what lets both of them actually be hard. Full warm-up. Stop the session — not the rep, the session — if anything
 sharp shows up.
 
 - Interval Repeats | 6 x 3 min hard, 90s jog

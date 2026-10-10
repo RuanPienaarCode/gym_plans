@@ -14,6 +14,8 @@ Everything here is a file you can read, edit and fork. No accounts, no app.
 |---|---|
 | **Postpartum — Rebuild to Running** (4 phases) | Pelvic floor, core and strength after birth, through to running again |
 | **Get Over The Bar** | At-home calisthenics built around one hard goal: the muscle-up |
+| **Get Over The Bar · Phase 2** | The muscle-up itself — false grip, high pulls, transition negatives and attempts, once 10 pull-ups and 10 dips are in |
+| **Pull-up · Grease the Groove** | Runs alongside any plan: a few easy pull-ups many times a day, never near failure, to climb toward ten |
 | **Trail Base — Road to 15km** | Rebuilding to a comfortable 15km on trail, 12-week ladder |
 
 ### Running — one ladder each, easy / hard / long
@@ -24,7 +26,6 @@ Everything here is a file you can read, edit and fork. No accounts, no app.
 | **Run · 15km** | Twelve weeks on the road — the tempo run is the engine at this distance |
 | **Run · 21km Half Marathon** | Twelve weeks, four runs a week, longest training run 18km |
 | **Run · 42km Marathon** | Sixteen weeks, longest run 32km, and a taper that is training rather than rest |
-| **Stretch · After the Run** | The ten minutes after a run, plus targeted legs, shoulders and back sessions |
 
 ### Full body — three that people actually run
 
@@ -33,6 +34,13 @@ Everything here is a file you can read, edit and fork. No accounts, no app.
 | **Full Body · Recommended Routine** | The r/bodyweightfitness classic: three identical full-body sessions a week, paired supersets, progress by making the movement harder |
 | **Full Body · Simple & Sinister** | Pavel Tsatsouline's minimalist pair — 100 swings and 10 get-ups, one bell, twenty minutes |
 | **Full Body · Evidence-Based Hypertrophy** | Three different full-body days built to the numbers the research supports: ~10+ hard sets per muscle per week, 1–3 reps in reserve, double progression |
+
+### Athletic — superset blocks, the way team strength programmes are written
+
+| Plan | For |
+|---|---|
+| **Athletic · Reinforce Day** | A basketball programme's durability day: landmine press, chest pass, swinging Pallof, glute med, KOT calf raises, Spanish squats and banded ankle work — plus a 12-minute ankle & tendon express |
+| **Athletic · Power, Strength & Reinforce** | A whole week in that format: Power Monday (jumps, throws, explosive pulls), Strength Wednesday, Reinforce Friday — Tuesday and Saturday left for running |
 
 ### Lunch hour
 
@@ -61,7 +69,8 @@ never collide with the programme you are actually running.
 | **Chest · Press & Push** | Four honest chest angles from a home rack with no bench press in it |
 | **Shoulders · Press & Rear Delt** | Press first, raise second — plus a no-pressing shoulder-health day |
 | **Back · Pull & Row** | Rowing volume for the weeks that are all pull-ups and no upper back |
-| **Mobility · Hips, Back & Shoulders** | A 20-minute full pass and a 10-minute desk reset |
+| **Mobility · Hips, Back & Shoulders** | Every stretching session in one place: a full pass, a desk reset, after the run, and targeted legs, shoulders and back |
+| **Prehab · Back, Hips & Shoulders** | Strength, not stretching, for the usual trouble spots — McGill Big 3, hip abductors for the ITB, rotator cuff |
 
 ### Hands-free
 

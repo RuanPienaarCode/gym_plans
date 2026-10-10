@@ -40,13 +40,21 @@ possible, and they are the first thing people quietly speed up.
 
 - Easy Run | 1 x 40 min easy
 
-## Intervals or Hills (wed)
+## Intervals (tue)
 
-Alternate weeks: intervals one week, hills the next. From week 12 drop this
-to easy running — the taper starts with the hard sessions, not the long ones.
+Alternate weeks with Hills below — both sit on Tuesday and you do ONE of
+them. Tuesday rather than Wednesday so a full day separates this from
+Thursday's tempo; two hard runs back to back is how the second one turns
+into a slog. From week 12 drop this to easy running — the taper starts with
+the hard sessions, not the long ones.
 
 - Interval Repeats | 6 x 4 min hard, 2 min jog
-- Hill Repeats | 1 x 6-8 x 90s uphill
+
+## Hills (tue)
+
+The other week's Tuesday. Hard up, walk or jog all the way down.
+
+- Hill Repeats | 6-8 x 90s uphill
 
 ## Tempo (thu)
 
@@ -59,11 +67,11 @@ teach your legs to hold for four hours.
 
 The ladder run, slow, with food and water rehearsed exactly as on race day.
 
-- Long Trail Run | 1 x per the ladder
+- Easy Run | 1 x per the ladder
 
 ## Recovery (sun)
 
-Walk it, and do the stretching plan afterwards. Sixteen weeks is long enough
+Walk it, and do Mobility's After the Run session afterwards. Sixteen weeks is long enough
 for small tightnesses to become injuries if nothing ever addresses them.
 
 - Recovery Walk | 1 x 45-60 min easy

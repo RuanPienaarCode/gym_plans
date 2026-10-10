@@ -18,10 +18,10 @@
       "file": "plans/9-foundations.md",
       "exercises": [
         "Bodyweight Squat",
-        "Dumbbell Russian Twist",
+        "Dead Bug",
         "Forward Lunges",
+        "Inverted Rows",
         "Plank",
-        "Push-up and Rotation",
         "Push-ups",
         "Side Plank",
         "Tricep Dips",
@@ -53,6 +53,79 @@
         "Overhead Triceps Extension",
         "Straight-bar Dips",
         "Tricep Dips"
+      ]
+    },
+    {
+      "id": "athletic-power-strength-reinforce",
+      "name": "Athletic · Power, Strength & Reinforce",
+      "summary": "AN ATHLETIC WEEK in the format university and club strength programmes use:",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 3,
+      "weekdays": [
+        "mon",
+        "wed",
+        "fri"
+      ],
+      "file": "plans/athletic-power-strength-reinforce.md",
+      "exercises": [
+        "Band Pull-Aparts",
+        "Banded Ankle Dorsiflexion",
+        "Banded Ankle Inversion & Eversion",
+        "Banded Ankle Plantar Flexion",
+        "Bear Plank to Inchworm & T-spine Rotation",
+        "Box Jumps",
+        "Bulgarian Split Squat",
+        "Captain Morgan",
+        "Dumbbell Floor Press",
+        "Dynamic Pallof Press",
+        "Eccentric Step-down",
+        "Explosive High Pull-ups",
+        "Explosive Push-ups",
+        "Farmer's Carry",
+        "Kettlebell Swing",
+        "Lateral Bounds",
+        "Lying Chest Pass",
+        "One-arm Dumbbell Row",
+        "Pogo Hops",
+        "Pull-ups",
+        "Romanian Deadlift",
+        "Single-arm Landmine Push Press",
+        "Single-leg Calf Raise",
+        "Single-leg KOT Calf Raise",
+        "Spanish Squat",
+        "World's Greatest Stretch"
+      ]
+    },
+    {
+      "id": "athletic-reinforce-day",
+      "name": "Athletic · Reinforce Day",
+      "summary": "A REINFORCE DAY in the shape a university basketball strength programme",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 2,
+      "weekdays": [
+        "any",
+        "any"
+      ],
+      "file": "plans/athletic-reinforce-day.md",
+      "exercises": [
+        "Banded Ankle Dorsiflexion",
+        "Banded Ankle Inversion & Eversion",
+        "Banded Ankle Plantar Flexion",
+        "Bear Plank to Inchworm & T-spine Rotation",
+        "Captain Morgan",
+        "Dynamic Pallof Press",
+        "Lying Chest Pass",
+        "Single-arm Landmine Push Press",
+        "Single-leg KOT Calf Raise",
+        "Spanish Squat"
       ]
     },
     {
@@ -125,6 +198,7 @@
       ],
       "file": "plans/full-body-evidence-based-hypertrophy.md",
       "exercises": [
+        "Band Face Pulls",
         "Bulgarian Split Squat",
         "Dumbbell Curl",
         "Dumbbell Floor Press",
@@ -228,9 +302,44 @@
       ]
     },
     {
+      "id": "get-over-the-bar-phase-2",
+      "name": "Get Over The Bar · Phase 2",
+      "summary": "PHASE 2 — THE MUSCLE-UP ITSELF. Phase 1 (Get Over The Bar) builds the pull-up",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 3,
+      "weekdays": [
+        "mon",
+        "wed",
+        "thu"
+      ],
+      "file": "plans/get-over-the-bar-phase-2.md",
+      "exercises": [
+        "Band Face Pulls",
+        "Box Jumps",
+        "Bulgarian Split Squat",
+        "Explosive High Pull-ups",
+        "False Grip Hang",
+        "Hollow Hold",
+        "Inverted Rows",
+        "L-sit & Dragon Flag",
+        "Muscle-ups",
+        "Negative Muscle-ups",
+        "Pistol Squat Progression",
+        "Pull-ups",
+        "Push-ups",
+        "Romanian Deadlift",
+        "Straight-bar Dips",
+        "Toes-to-bar Ladder"
+      ]
+    },
+    {
       "id": "get-over-the-bar",
       "name": "Get Over The Bar",
-      "summary": "At-home strength, four days a week, ~30 minutes a session. One hard goal — the",
+      "summary": "At-home strength, three days a week, ~30 minutes a session. One hard goal —",
       "series": null,
       "phase": null,
       "phase_of": null,
@@ -343,7 +452,7 @@
         "mon",
         "wed",
         "fri",
-        "sat"
+        "sun"
       ],
       "file": "plans/kettlebell-rite-of-passage.md",
       "exercises": [
@@ -415,19 +524,24 @@
     {
       "id": "mobility-hips-back-shoulders",
       "name": "Mobility · Hips, Back & Shoulders",
-      "summary": "Not a workout, and not the same thing as Rest & Recovery — that plan fills the",
+      "summary": "Every stretching and mobility session in this library, in one place. Not a",
       "series": null,
       "phase": null,
       "phase_of": null,
       "parallel": false,
       "fallback": false,
-      "days": 2,
+      "days": 6,
       "weekdays": [
+        "any",
+        "any",
+        "any",
+        "any",
         "any",
         "any"
       ],
       "file": "plans/mobility-hips-back-shoulders.md",
       "exercises": [
+        "Band Face Pulls",
         "Band Pull-Aparts",
         "Calf Stretch",
         "Cat-Cow",
@@ -437,6 +551,7 @@
         "Hamstring Stretch",
         "IT Band and Glute Stretch",
         "Inch Worms",
+        "Kettlebell Halo",
         "Kneeling Hip Flexor Stretch",
         "Piriformis Stretch",
         "Shoulder Circles",
@@ -573,6 +688,55 @@
       ]
     },
     {
+      "id": "prehab-back-hips-shoulders",
+      "name": "Prehab · Back, Hips & Shoulders",
+      "summary": "FIFTEEN MINUTES, TWICE A WEEK, for the three places most training histories",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 2,
+      "weekdays": [
+        "any",
+        "any"
+      ],
+      "file": "plans/prehab-back-hips-shoulders.md",
+      "exercises": [
+        "Band External Rotation",
+        "Band Face Pulls",
+        "Band Lateral Walk",
+        "Bird Dog",
+        "Eccentric Step-down",
+        "McGill Curl-up",
+        "Side Plank",
+        "Side-lying Hip Abduction",
+        "Single-leg Glute Bridge"
+      ]
+    },
+    {
+      "id": "pull-up-grease-the-groove",
+      "name": "Pull-up · Grease the Groove",
+      "summary": "GREASE THE GROOVE — the classic way to add pull-up reps without adding",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": true,
+      "fallback": false,
+      "days": 4,
+      "weekdays": [
+        "tue",
+        "thu",
+        "fri",
+        "sun"
+      ],
+      "file": "plans/pull-up-grease-the-groove.md",
+      "exercises": [
+        "Dead Hang",
+        "Pull-ups"
+      ]
+    },
+    {
       "id": "rest-and-recovery",
       "name": "Rest & Recovery",
       "summary": "Not a programme you switch to — this fills any day your training plan",
@@ -633,7 +797,7 @@
       "days": 5,
       "weekdays": [
         "mon",
-        "wed",
+        "tue",
         "thu",
         "sat",
         "sun"
@@ -656,10 +820,11 @@
       "phase_of": null,
       "parallel": false,
       "fallback": false,
-      "days": 5,
+      "days": 6,
       "weekdays": [
         "mon",
-        "wed",
+        "tue",
+        "tue",
         "thu",
         "sat",
         "sun"
@@ -669,7 +834,6 @@
         "Easy Run",
         "Hill Repeats",
         "Interval Repeats",
-        "Long Trail Run",
         "Recovery Walk",
         "Tempo Run"
       ]
@@ -725,41 +889,6 @@
         "Scapular Pull-ups",
         "Shoulder Circles",
         "Standing Dumbbell Press"
-      ]
-    },
-    {
-      "id": "stretch-after-the-run",
-      "name": "Stretch · After the Run",
-      "summary": "FOUR STRETCHING SESSIONS, none of them a workout. The first is the one to do",
-      "series": null,
-      "phase": null,
-      "phase_of": null,
-      "parallel": false,
-      "fallback": false,
-      "days": 4,
-      "weekdays": [
-        "any",
-        "any",
-        "any",
-        "any"
-      ],
-      "file": "plans/stretch-after-the-run.md",
-      "exercises": [
-        "Band Face Pulls",
-        "Band Pull-Aparts",
-        "Calf Stretch",
-        "Cat-Cow",
-        "Child's Pose",
-        "Dead Hang",
-        "Diaphragmatic Breathing",
-        "Hamstring Stretch",
-        "IT Band and Glute Stretch",
-        "Kettlebell Halo",
-        "Kneeling Hip Flexor Stretch",
-        "Piriformis Stretch",
-        "Shoulder Circles",
-        "Spinal Twist",
-        "World's Greatest Stretch"
       ]
     },
     {
