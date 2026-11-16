@@ -48,6 +48,18 @@ Everything here is a file you can read, edit and fork. No accounts, no app.
 |---|---|
 | **Lunch Circuit · 30 Minutes** | A 5-minute run then four laps of jump squats, pull-ups, dips, lunges, push-ups, bridges and plank — built to leave time to shower and drive back to work |
 
+### Postnatal — single sessions, no weekday
+
+Timed sessions: set the clock to 10, 15 or 20 minutes and the list repeats until it runs out. Each carries the same see-your-physio-first and stop-signs note as the Postpartum series.
+
+| Plan | For |
+|---|---|
+| **Postnatal · Core Level 1** | Breathing, pelvic tilts and gentle core, grouped by position |
+| **Postnatal · Core Level 2** | Planks, side planks and longer levers, once Level 1 is easy |
+| **Postnatal · Full Body Level 1** | Gentle full-body strength, no equipment |
+| **Postnatal · Kettlebell Strength** | Full body with one kettlebell and bodyweight |
+| **Postnatal · Dumbbell Strength** | Full body with dumbbells, the hardest of the five |
+
 ### Kettlebell
 
 | Plan | For |
@@ -56,6 +68,10 @@ Everything here is a file you can read, edit and fork. No accounts, no app.
 | **Kettlebell · 10,000 Swing Challenge** | Dan John's month: twenty workouts of 500 swings, with an easy strength lift between sets |
 | **Kettlebell · Armor Building Complex** | 2 cleans, 1 press, 3 front squats — the most copied complex on the internet |
 | **Fullbody Workout Kettle Bell** | One full-body session, one kettlebell, no weekday — reach for it when you want it |
+| **Kettlebell · Super Six Circuit** | Hinge, push, squat, pull, isolation and core — six patterns, five rounds |
+| **Kettlebell · Advanced Full Body** | A hard one-bell strength session: swings, clean and press, squat, rows, presses, core |
+| **Kettlebell · Core Strength** | Abs, core and back with one light bell, finished with back work |
+| **Kettlebell · Strong Core** | Pilates mat work with a kettlebell block in the middle |
 
 ### Body part — accessory sessions with no weekday
 

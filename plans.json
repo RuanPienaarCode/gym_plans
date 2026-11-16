@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-10",
+  "updated": "2026-11-16",
   "plans": [
     {
       "id": "9-foundations",
@@ -415,6 +415,35 @@
       ]
     },
     {
+      "id": "kettlebell-advanced-full-body",
+      "name": "Kettlebell · Advanced Full Body",
+      "summary": "ADVANCED KETTLEBELL FULL BODY. Difficulty 3 of 3. A hard full-body strength",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/kettlebell-advanced-full-body.md",
+      "exercises": [
+        "Goblet Squat",
+        "Hand-to-Hand Kettlebell Swing",
+        "Kettlebell Clean and Press",
+        "Kettlebell Double Reach",
+        "Kettlebell Figure 8 Pass",
+        "Kettlebell Leg Sway",
+        "Kettlebell Pass Punches",
+        "Kettlebell Press",
+        "Kettlebell Push Pull Standing",
+        "Kettlebell Row",
+        "Kettlebell Russian Twist",
+        "Kettlebell Weighted Sit-Up"
+      ]
+    },
+    {
       "id": "kettlebell-armor-building-complex",
       "name": "Kettlebell · Armor Building Complex",
       "summary": "THE ARMOR BUILDING COMPLEX — Dan John's, and the most copied kettlebell",
@@ -436,6 +465,34 @@
         "Kettlebell Press",
         "Kettlebell Swing",
         "Turkish Get-Up"
+      ]
+    },
+    {
+      "id": "kettlebell-core-strength",
+      "name": "Kettlebell · Core Strength",
+      "summary": "KETTLEBELL CORE STRENGTH. Difficulty 2 of 3. Abs, core and back with one",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/kettlebell-core-strength.md",
+      "exercises": [
+        "Bird Dog",
+        "Kettlebell Cross Crunch (Left)",
+        "Kettlebell Cross Crunch (Right)",
+        "Kettlebell Crunch",
+        "Kettlebell Double Reach",
+        "Kettlebell Halo",
+        "Kettlebell Leg Sway",
+        "Kettlebell Russian Twist",
+        "Kettlebell Side Twist Standing",
+        "Kettlebell Straight Leg Reach",
+        "Kettlebell Weighted Sit-Up"
       ]
     },
     {
@@ -462,6 +519,62 @@
         "Kettlebell Windmill",
         "Pull-ups",
         "Turkish Get-Up"
+      ]
+    },
+    {
+      "id": "kettlebell-strong-core",
+      "name": "Kettlebell · Strong Core",
+      "summary": "STRONG CORE WITH KETTLEBELLS. Difficulty 2 of 3. Pilates mat work with a",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/kettlebell-strong-core.md",
+      "exercises": [
+        "Back Arm Rowing",
+        "Bicycle Crunch",
+        "Corkscrew",
+        "Double Leg Stretch",
+        "Kettlebell Leg Sway",
+        "Kettlebell Russian Twist",
+        "Kettlebell Straight Leg Reach",
+        "Kettlebell Weighted Sit-Up",
+        "Knee Hugs",
+        "One Leg Circles",
+        "Pilates Swimming",
+        "Renegade Row",
+        "Roll Up",
+        "Rolling Like a Ball",
+        "Swan",
+        "Wag Your Tail"
+      ]
+    },
+    {
+      "id": "kettlebell-super-six-circuit",
+      "name": "Kettlebell · Super Six Circuit",
+      "summary": "KETTLEBELL SUPER SIX CIRCUIT. Difficulty 2 of 3. Six movement patterns in",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/kettlebell-super-six-circuit.md",
+      "exercises": [
+        "Kettlebell Curl",
+        "Kettlebell Floor Press",
+        "Kettlebell Front Squat",
+        "Kettlebell Leg Sway",
+        "Kettlebell Swing",
+        "Renegade Row"
       ]
     },
     {
@@ -557,6 +670,173 @@
         "Shoulder Circles",
         "Spinal Twist",
         "World's Greatest Stretch"
+      ]
+    },
+    {
+      "id": "postnatal-core-level-1",
+      "name": "Postnatal · Core Level 1",
+      "summary": "POSTNATAL CORE LEVEL 1. Difficulty 1 of 3. No equipment. Rebuild core",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/postnatal-core-level-1.md",
+      "exercises": [
+        "Back Bow Jacks",
+        "Bird Dog",
+        "Cat-Cow",
+        "Dead Bug",
+        "Diaphragmatic Breathing",
+        "Donkey Kick",
+        "Fire Hydrant",
+        "Genie Sit",
+        "Glute Bridge",
+        "Grasshoppers",
+        "Inner Thigh Lift",
+        "Kneeling Side Circles",
+        "Pelvic Tilt",
+        "Pelvic Tilt with Heel Walk",
+        "Pelvic Tilt with March",
+        "Pelvic Tilt with March and Shoulder Flex",
+        "Pelvic Tilt with Shoulder Flex",
+        "Side-lying Clam",
+        "Side-lying Leg Circles",
+        "Single-leg Glute Bridge"
+      ]
+    },
+    {
+      "id": "postnatal-core-level-2",
+      "name": "Postnatal · Core Level 2",
+      "summary": "POSTNATAL CORE LEVEL 2. Difficulty 2 of 3. No equipment. The step after",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/postnatal-core-level-2.md",
+      "exercises": [
+        "Alternating Push-up Plank",
+        "Inch Worms",
+        "Inner Thigh Lift",
+        "Kneeling Side Circles",
+        "Lateral Abductor Crunch",
+        "One Leg Circles",
+        "Pelvic Tilt with Alternating Kick Out",
+        "Plank Hip Rotation",
+        "Side Plank",
+        "Snow Angel",
+        "Standing Side Bend"
+      ]
+    },
+    {
+      "id": "postnatal-dumbbell-strength",
+      "name": "Postnatal · Dumbbell Strength",
+      "summary": "POSTNATAL DUMBBELL STRENGTH. Difficulty 3 of 3. A full-body dumbbell",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/postnatal-dumbbell-strength.md",
+      "exercises": [
+        "Box Step-ups",
+        "Calf Raises",
+        "Donkey Kick",
+        "Dumbbell Archer",
+        "Dumbbell Floor Press",
+        "Dumbbell Tricep Kickback",
+        "Fire Hydrant",
+        "Good Mornings",
+        "Hammer Curls",
+        "Push-up and Rotation",
+        "Reverse Flyes",
+        "Reverse Tabletop Knee Lift",
+        "Side-lying Clam",
+        "Single-leg Sit-to-Stand",
+        "Standing Dumbbell Press",
+        "Wall Sit"
+      ]
+    },
+    {
+      "id": "postnatal-full-body-level-1",
+      "name": "Postnatal · Full Body Level 1",
+      "summary": "POSTNATAL FULL BODY LEVEL 1. Difficulty 1 of 3. No equipment. Gentle",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/postnatal-full-body-level-1.md",
+      "exercises": [
+        "Airplanes",
+        "Bodyweight Squat",
+        "Box Step-ups",
+        "Boxer",
+        "Cobra Wings",
+        "Forward Lunges",
+        "Hip Extension",
+        "Inch Worms",
+        "Pelvic Tilt with Alternating Kick Out",
+        "Pelvic Tilt with March and Shoulder Flex",
+        "Push-ups",
+        "Side-lying Clam",
+        "Side-lying Hip Abduction",
+        "Single-leg Calf Raise",
+        "Superman",
+        "Tricep Dips"
+      ]
+    },
+    {
+      "id": "postnatal-kettlebell-strength",
+      "name": "Postnatal · Kettlebell Strength",
+      "summary": "POSTNATAL KETTLEBELL STRENGTH. Difficulty 2 of 3. Full body, with one",
+      "series": null,
+      "phase": null,
+      "phase_of": null,
+      "parallel": false,
+      "fallback": false,
+      "days": 1,
+      "weekdays": [
+        "any"
+      ],
+      "file": "plans/postnatal-kettlebell-strength.md",
+      "exercises": [
+        "Back Bow Jacks",
+        "Hand-to-Hand Kettlebell Swing",
+        "Kettlebell Alternating Side Lunge",
+        "Kettlebell Arm Bar",
+        "Kettlebell Clean and Press",
+        "Kettlebell Down Down Up Up",
+        "Kettlebell Figure 8 Pass",
+        "Kettlebell Halo",
+        "Kettlebell Leg Sway",
+        "Kettlebell Narrow Squat",
+        "Kettlebell Pass Punches",
+        "Kettlebell Row",
+        "Kettlebell Side Twist Standing",
+        "Kettlebell Single-leg Deadlift",
+        "Kettlebell Straight Leg Reach",
+        "Kettlebell Swing",
+        "Knee In Push-ups",
+        "Overhead Triceps Extension",
+        "Pike Push-ups"
       ]
     },
     {
