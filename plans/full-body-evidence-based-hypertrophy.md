@@ -79,4 +79,4 @@ pulling the shoulders back the other way.
 - Kettlebell Swing | 3 x 15
 - Overhead Triceps Extension | 2 x 10-12
 - Band Face Pulls | 2 x 15-20
-- Side Plank | 3 x 30-45s
+- Side Plank | 3 x 30-45s/side

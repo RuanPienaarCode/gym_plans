@@ -33,7 +33,7 @@ working around it.
 - Inverted Rows | 3 x 8-10 (high bar, easy angle)
 - Push-ups | 3 x 6-10 hands elevated
 - Bird Dog | 3 x 8/side
-- Side Plank | 2 x 15-20s from the knees
+- Side Plank | 2 x 15-20s/side from the knees
 
 ## Lower + Balance (fri)
 

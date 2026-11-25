@@ -54,7 +54,7 @@ the hard sessions, not the long ones.
 
 The other week's Tuesday. Hard up, walk or jog all the way down.
 
-- Hill Repeats | 6-8 x 90s uphill
+- Hill Repeats | 6 x 90s uphill, building to 8
 
 ## Tempo (thu)
 

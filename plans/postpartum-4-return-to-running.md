@@ -36,7 +36,7 @@ run through.
 - Single-leg Glute Bridge | 3 x 10/side
 - Bulgarian Split Squat | 3 x 8/leg
 - Single-leg Calf Raise | 3 x 12/side
-- Side Plank | 3 x 30s
+- Side Plank | 3 x 30s/side
 - Dead Bug | 3 x 8/side
 
 ## Run (fri)

@@ -41,7 +41,7 @@ reason to give up, and not a reason to run anyway.
 - Single-leg Calf Raise | 3 x 10/side
 - Bulgarian Split Squat | 3 x 8/leg
 - Standing March | 3 x 12/side
-- Side Plank | 3 x 20-30s
+- Side Plank | 3 x 20-30s/side
 - Inverted Rows | 3 x 10
 
 ## Impact testing (fri)
